@@ -1,0 +1,42 @@
+Istanbul
+Loads:
+Flow Devices:
+-------------
+Ankara
+Loads:
+Flow Devices:
+-------------
+Bursa
+Loads:
+P7
+P6
+P3
+Flow Devices:
+T3
+T4
+-------------
+Antalya
+Loads:
+P13
+P10
+Flow Devices:
+T2
+-------------
+Denizli
+Loads:
+P1
+P2
+P4
+P12
+P11
+Flow Devices:
+T5
+-------------
+Erzurum
+Loads:
+P5
+P8
+P9
+Flow Devices:
+T1
+-------------
